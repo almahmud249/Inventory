@@ -142,6 +142,7 @@
                         </div>
                         <div class="col-sm-5 text-right">
                             <a href="{{ route('register') }}">Create an account</a>
+                            </div>
                         </div>
                     </div>
                 </form> 
